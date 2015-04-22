@@ -1,3 +1,11 @@
+<a name="v0.6.7"></a>
+### v0.6.7 (2015-04-22)
+
+
+#### Bug Fixes
+
+* **gridster:** responsive width now resizes based off wrapper not window ([e69c3e8f](http://github.com/DecksterTeam/gridster.js/commit/e69c3e8f64aa4557ef032e4d0d8185e83b1aed21))
+
 <a name="v0.6.6"></a>
 ### v0.6.6 (2015-04-14)
 
