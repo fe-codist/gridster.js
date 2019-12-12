@@ -4289,7 +4289,7 @@
 
       var max_cols = this.options.max_cols;
 
-      var cols = Math.floor(wrapper_width / (this.min_widget_width + this.options.widget_margins[0])) +
+      var cols = Math.ceil(wrapper_width / (this.min_widget_width + this.options.widget_margins[0])) +
       this.options.extra_cols;
 
       var actual_cols = this.$widgets.map(function() {
